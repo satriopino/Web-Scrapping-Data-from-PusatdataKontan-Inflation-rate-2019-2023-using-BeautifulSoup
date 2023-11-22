@@ -6,4 +6,4 @@ In this project, we try to scrap Inflation rate data from **https://pusatdata.ko
 
 A lot of you might ask why we need to scrap this data from the sites while it already has a good enough visualization. Let's say we have a task to make a forecast on the Inflation rate. To do that we need to have the data, and scrapping is a good way to collect the data we don't have from the public.
 
-We will scrap 5 points from this site. That is **Date, Inflation value MoM, and Inflation value YoY**. In this case, we will go to the Kontan data center Inflation rate page, you can click [here] ("https://pusatdata.kontan.co.id/makroekonomi/inflasi") to follow what exactly that link goes to.
+We will scrap 5 points from this site. That is **Date, Inflation value MoM, and Inflation value YoY**. In this case, we will go to the Kontan data center Inflation rate page, you can click [here] <https://pusatdata.kontan.co.id/makroekonomi/inflasi> to follow what exactly that link goes to.
